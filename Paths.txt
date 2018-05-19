@@ -1,0 +1,3 @@
+C:\Users\Lenovo\Documents\R\win-library\3.5				--> Bioconductor R packages installed
+C:\Users\Lenovo\AppData\Local\Temp\RtmpQt3dWF\downloaded_packages	--> downloaded binary packages
+C:/Program Files/R/R-3.5.0/library					--> installed packages

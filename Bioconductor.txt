@@ -1,0 +1,16 @@
+> source("http://bioconductor.org/biocLite.R")
+Warning in install.packages("BiocInstaller", repos = a["BioCsoft", "URL"]) :
+  'lib = "C:/Program Files/R/R-3.5.0/library"' is not writable
+probando la URL 'https://bioconductor.org/packages/3.7/bioc/bin/windows/contrib/3.5/BiocInstaller_1.30.0.zip'
+Content type 'application/zip' length 102191 bytes (99 KB)
+downloaded 99 KB
+
+package ‘BiocInstaller’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+        C:\Users\Lenovo\AppData\Local\Temp\RtmpYlpVwS\downloaded_packages
+Bioconductor version 3.7 (BiocInstaller 1.30.0), ?biocLite for help
+--------------------------------------------------------
+The downloaded binary packages are in
+        C:\Users\Lenovo\AppData\Local\Temp\RtmpYlpVwS\downloaded_packages
+installation path not writeable, unable to update packages: MASS, survival

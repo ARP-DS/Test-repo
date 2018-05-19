@@ -1,0 +1,17 @@
+(available.packages() 		--> Lists R packages
+a<- available.packages()	--> set "a" to list R packages
+head(rownames(a),3)		--> displays the name of the first 3 pack
+install.packages("slidify")	--> install slidify CRAN package
+install.packages(c("slidify","..",...))	--> installs multiple CRAN packages
+
+source("http://bioconductor.org/bioLite.R")
+bioLite()					--> install all multiple Bioconductor packages
+
+biocLite(c("GenomicFeatures","..."...)		--> install specific multiple Bioconductor packages
+
+library()		--> load all installed packages
+library(slidify)	--> load slidify package
+search()		--> after library command, list the functions of the load package
+
+find.package("...")	--> says if "..." package is installed
+find_rtools()		--> says if rtools are installed
